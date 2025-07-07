@@ -18,12 +18,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=CODERGURU26)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODERGURU26&layout=compact)
 
-## 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=CODERGURU26&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-
----
 
 ### 📫 Contact
 - Email: gs6029907@gmail.com
