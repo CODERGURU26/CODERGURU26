@@ -12,7 +12,7 @@
 ## 🔥 My Projects
 - 🛍️ [SwiftKart](https://github.com/CODERGURU26/SwifKart): E-commerce platform with Razorpay, Firebase Auth, Admin Panel
 - 📱 [CodeSchool](https://github.com/CODERGURU26/CodeSchool): School App with React , Firestore , Firebase Auth
-- 🎯 [StriverSheet](https://github.com/CODERGURU26/StriverSheet): Solved DSA problems from Striver’s SDE sheet
+- 🎯 [Porfolio](https://github.com/CODERGURU26/StriverSheet): My Porfolio with Bootstrap 5 
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=CODERGURU26)
