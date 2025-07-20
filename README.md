@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Guru Sharma
 
-💻 I'm a Full Stack Developer passionate about building modern, scalable web and mobile applications.
+💻 I'm a Full Stack Developer passionate about building modern, scalable web Applications
 
 ## 🛠️ Tech Stack
-- 🔧 Languages: JavaScript, Dart, C++, Python
-- 🌐 Web: React.js, Firebase, TailwindCSS
-- 📱 Mobile: Flutter
+- 🔧 Languages: JavaScript, C++, Python
+- 🌐 Web: React.js, Redux ,  Firebase, TailwindCSS 
 - 🗃️ Backend: Firebase, Node.js
 - 🛢️ Database: Firestore, MySQL
 
