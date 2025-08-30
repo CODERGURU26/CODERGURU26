@@ -3,10 +3,10 @@
 💻 I'm a Full Stack Developer passionate about building modern, scalable web Applications
 
 ## 🛠️ Tech Stack
-- 🔧 Languages: JavaScript, C++, Python
-- 🌐 Web: React.js, Redux ,  Firebase, TailwindCSS 
+- 🔧 Languages: JavaScript, C++, Python 
+- 🌐 Web: ReactJS , Firebase, TailwindCSS , nextJS 
 - 🗃️ Backend: Firebase, Node.js
-- 🛢️ Database: Firestore, MySQL
+- 🛢️ Database: Firestore, MySQL , MongoDB
 
 ## 🔥 My Projects
 - 🛍️ [SwiftKart](https://github.com/CODERGURU26/SwifKart): E-commerce platform with Razorpay, Firebase Auth, Admin Panel
