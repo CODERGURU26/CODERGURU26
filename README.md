@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Guru Sharma
+# 👋 Hi, I'm Gururaj Krishna Sharma
 💻 I'm a Data Analyst passionate about transforming data into actionable insights and building data-driven solutions
 
 ## 🛠️ Tech Stack
