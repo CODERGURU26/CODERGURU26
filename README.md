@@ -1,118 +1,222 @@
 # 👋 Hi, I'm Gururaj Krishna Sharma
 
-## 🚀 Data Scientist | Data Analyst | Machine Learning Enthusiast | Web Developer
+### Data Analyst | Financial Analyst | Business Intelligence | Risk & Research Analytics
 
-I'm a Computer Science Engineering student passionate about solving real-world problems using **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I enjoy transforming raw data into meaningful insights, building predictive models, and developing scalable web applications.
+I'm a final-year Computer Science undergraduate at the University of Mumbai with a strong focus on **Data Analytics, Financial Analytics, and Business Intelligence**.
+
+I enjoy working with raw datasets, transforming them into reliable analytical data, identifying trends and business insights, and building dashboards that support data-driven decision-making.
+
+My work combines **Python, SQL, PostgreSQL, Power BI, DAX, and Excel** across e-commerce, financial markets, portfolio analytics, and business reporting.
 
 ---
 
-## 🛠️ Technical Skills
+## 🧑‍💻 About Me
 
-### 👨‍💻 Programming Languages
+- 🎓 B.E. Computer Science (Computational Science) — University of Mumbai
+- 📊 Focused on Data Analytics, Financial Analytics & Business Intelligence
+- 🐍 Python for data cleaning, analysis and automation
+- 🗄️ SQL & PostgreSQL for analytical queries and data modeling
+- 📈 Power BI & DAX for interactive dashboards and KPI reporting
+- 📊 Excel for analysis, reporting and MIS dashboards
+- 💹 Interested in financial markets, portfolio analytics and risk analysis
+- 🔎 Interested in turning complex datasets into actionable business insights
+
+---
+
+# 🛠️ Technical Skills
+
+### 📊 Data Analytics
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Validation
+- Statistical Analysis
+- Hypothesis Testing
+- A/B Testing
+- Trend Analysis
+- KPI Analysis
+- Variance Analysis
+- Business Insights
+- Market Research
+
+### 🐍 Python
 - Python
-- SQL
-- JavaScript
-
-### 🤖 Data Science & Machine Learning
-- Scikit-learn
 - Pandas
 - NumPy
-- Feature Engineering
+- Data Analysis
 - Data Preprocessing
-- Model Evaluation
-- Classification & Regression
 
-### 📊 Data Analytics & Visualization
-- Power BI
-- Tableau
-- Matplotlib
-- Seaborn
-- Excel
-
-### 🗄️ Databases
+### 🗄️ SQL & Databases
+- SQL
+- PostgreSQL
 - MySQL
-- MongoDB
-- Firebase Firestore
+- Joins
+- CTEs
+- Subqueries
+- Window Functions
+- Aggregations
+- Data Validation
+- Analytical Views
 
-### 🌐 Web Development
-- React.js
-- Next.js
-- Tailwind CSS
-- Firebase
+### 📈 Business Intelligence
+- Power BI
+- DAX
+- Power Query
+- Dashboard Development
+- Data Visualization
+- Data Modeling
+- Star Schema
+- MIS Reporting
 
-### ⚙️ Tools
+### 📑 Excel
+- Advanced Excel
+- Pivot Tables
+- VLOOKUP
+- XLOOKUP
+- INDEX-MATCH
+- COUNTIF
+- SUMIF
+- MIS Dashboards
+- Reporting Automation
+
+### 🏦 Financial & Risk Analytics
+- Portfolio Analysis
+- Stock & Sector Analysis
+- Portfolio Allocation
+- Diversification Analysis
+- HHI Concentration
+- Volatility
+- Maximum Drawdown
+- Value at Risk (VaR)
+- Sharpe Ratio
+- Beta Analysis
+- Market Analysis
+
+### ⚙️ Tools & Technologies
 - Git
 - GitHub
 - Jupyter Notebook
-- VS Code
-- Google Colab
+- Docker
+- FastAPI
+- REST APIs
+- MongoDB
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Analytics Projects
 
-### 📊 SQL Beginner to Advanced
-Comprehensive SQL guide covering everything from fundamentals to advanced database concepts.
+## 📊 End-to-End E-commerce Analytics
 
-🔗 https://github.com/CODERGURU26/SQL-Beginner-to-Advanced
+**PostgreSQL · SQL · Power BI · DAX · Data Warehousing**
 
----
+An end-to-end analytics project built using the Olist Brazilian E-commerce dataset.
 
-### 🤖 Machine Learning Projects
-A collection of predictive machine learning models, data preprocessing techniques, and model evaluation notebooks.
+### What I worked on:
 
----
+- Audited, cleaned and validated raw e-commerce datasets using PostgreSQL.
+- Implemented a layered **Raw → Staging → Warehouse → Data Marts** architecture.
+- Designed a **star-schema data warehouse**.
+- Created business-facing data marts for:
+  - Sales
+  - Customers
+  - Sellers
+  - Delivery
+  - Reviews
+- Built a **5-page interactive Power BI dashboard** using DAX, Power Query and data modeling.
+- Performed financial reconciliation and data-quality validation across:
+  - 99,441 orders
+  - 96,096 customers
+  - 3,095 sellers
+  - R$15.84M order value
+- Identified and fixed a customer-grain issue affecting repeat-customer analysis.
 
-### 📈 Data Analytics Dashboards
-Interactive Power BI and Tableau dashboards for business intelligence and data visualization.
-
----
-
-### 🌐 Web Development Projects
-Responsive full-stack web applications built using React, Next.js, Firebase, and Tailwind CSS.
-
----
-
-## 🏆 Achievements
-
-- 🏅 Kaggle Competitor
-- 🐍 Kaggle Python Coder Badge
-- 🏆 Top 7 Finalist – HackNEXT 1.0
-- 🤖 Microsoft Agents League Participant
-- 💼 Freelance Data Scientist, Data Analyst & Web Developer at Znole Technologies
+🔗 **GitHub:**  
+https://github.com/CODERGURU26/Olist_AI_Analytics
 
 ---
 
-## 📊 GitHub Stats
+## 💹 Finance Portfolio Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=CODERGURU26)
+**Python · PostgreSQL · SQL · Power BI · Financial & Risk Analytics**
+
+A financial analytics project focused on portfolio performance, risk and market analysis using NSE market data.
+
+### What I worked on:
+
+- Analyzed 1 year of data for **10 stocks**, along with NIFTY 50 and India VIX.
+- Cleaned, validated and adjusted stock prices for corporate actions.
+- Built a **₹10 lakh whole-share portfolio**.
+- Answered 26 analytical questions covering:
+  - Stock & sector returns
+  - Portfolio contribution
+  - Asset allocation
+  - Diversification
+  - HHI concentration
+  - Daily & monthly performance
+- Calculated portfolio risk metrics including:
+  - Annualized volatility
+  - Maximum drawdown
+  - Value at Risk (VaR)
+  - Sharpe ratio
+- Analyzed stock beta and portfolio correlation with India VIX.
+- Created reusable PostgreSQL analytical views.
+- Built a **4-page Power BI dashboard** covering:
+  - Portfolio Performance
+  - Risk Analysis
+  - Portfolio Composition
+  - Market Analysis
+
+🔗 **GitHub:**  
+https://github.com/CODERGURU26/Finance-Portfolio-Analytics
 
 ---
 
-## 🎯 Areas of Interest
+# 📚 Virtual Experience
 
-- Machine Learning
-- Artificial Intelligence
-- Data Science
-- Data Analytics
-- Predictive Analytics
-- Deep Learning
-- Business Intelligence
-- Data Visualization
-- Web Development
+### Deloitte Australia — Data Analytics Job Simulation
+**Forage | January 2026**
+
+- Completed data analysis and forensic technology tasks.
+- Applied analytical techniques to investigate datasets and produce data-driven findings.
+
+### Tata — GenAI Powered Data Analytics Job Simulation
+**Forage | December 2025**
+
+- Performed exploratory data analysis and risk profiling.
+- Applied AI-driven approaches to predict delinquency.
+- Developed a business report and data story.
+- Used analytical and risk insights to support collections strategy.
+
+### J.P. Morgan — Quantitative Research Job Simulation
+**Forage | January 2026**
+
+- Completed quantitative research and financial data analysis tasks.
+- Applied analytical methods to interpret financial datasets.
+- Worked on research-driven financial decision-making.
 
 ---
 
-## 🤝 Let's Connect
+# 🏆 Certifications
 
-📧 **Email:** guruuu2468@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/gururaj-krishna-sharma
-
-🏆 **Kaggle:** https://www.kaggle.com/yourusername
-
-💻 **GitHub:** https://github.com/CODERGURU26
+- **HackerRank — Advanced SQL**
+- **GeeksforGeeks — Data Analytics**
+- **freeCodeCamp — Relational Database**
 
 ---
 
-⭐ *Always learning, building, and exploring the endless possibilities of Data Science and Artificial Intelligence.*
+# 📊 What I Like Working On
+
+```text
+Raw Data
+   ↓
+Data Cleaning & Validation
+   ↓
+Exploratory Data Analysis
+   ↓
+SQL / Python Analysis
+   ↓
+KPI & Statistical Analysis
+   ↓
+Business Insights
+   ↓
+Power BI / Excel Dashboard
+   ↓
+Data-Driven Decision Making
